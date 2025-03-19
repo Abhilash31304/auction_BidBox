@@ -109,6 +109,12 @@
             <mxPoint x="330" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="75qF3hbvprkDRyJPkcIT-53" value="Initial state" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="75qF3hbvprkDRyJPkcIT-54" value="Final state" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
