@@ -49,24 +49,6 @@
         <mxCell id="75qF3hbvprkDRyJPkcIT-21" value="Item Relisted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="345" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="75qF3hbvprkDRyJPkcIT-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="75qF3hbvprkDRyJPkcIT-7" target="75qF3hbvprkDRyJPkcIT-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="400" as="sourcePoint" />
-            <mxPoint x="450" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="75qF3hbvprkDRyJPkcIT-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="75qF3hbvprkDRyJPkcIT-18" target="75qF3hbvprkDRyJPkcIT-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="335" y="305" as="sourcePoint" />
-            <mxPoint x="385" y="255" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="75qF3hbvprkDRyJPkcIT-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="75qF3hbvprkDRyJPkcIT-20" target="75qF3hbvprkDRyJPkcIT-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="400" as="sourcePoint" />
-            <mxPoint x="450" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="75qF3hbvprkDRyJPkcIT-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="75qF3hbvprkDRyJPkcIT-3" target="75qF3hbvprkDRyJPkcIT-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="270" as="sourcePoint" />
@@ -101,6 +83,33 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="75qF3hbvprkDRyJPkcIT-34" value="Bidding Started" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="75qF3hbvprkDRyJPkcIT-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="75qF3hbvprkDRyJPkcIT-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="75qF3hbvprkDRyJPkcIT-7" target="75qF3hbvprkDRyJPkcIT-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="240" as="sourcePoint" />
+            <mxPoint x="550" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75qF3hbvprkDRyJPkcIT-36" value="Failed Attempt" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="75qF3hbvprkDRyJPkcIT-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="75qF3hbvprkDRyJPkcIT-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="75qF3hbvprkDRyJPkcIT-18" target="75qF3hbvprkDRyJPkcIT-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="240" as="sourcePoint" />
+            <mxPoint x="550" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75qF3hbvprkDRyJPkcIT-38" value="Non-payment items" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="75qF3hbvprkDRyJPkcIT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="75qF3hbvprkDRyJPkcIT-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="75qF3hbvprkDRyJPkcIT-20" target="75qF3hbvprkDRyJPkcIT-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="230" as="sourcePoint" />
+            <mxPoint x="550" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75qF3hbvprkDRyJPkcIT-43" value="Relisting" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="75qF3hbvprkDRyJPkcIT-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
